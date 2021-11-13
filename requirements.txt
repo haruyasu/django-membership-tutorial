@@ -1,0 +1,5 @@
+Django==3.2.9
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.4.0
+PyJWT==1.7.1
+python-dateutil==2.8.2
